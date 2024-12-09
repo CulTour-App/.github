@@ -1,12 +1,15 @@
 # CulTour
 
-<!--
+## Team Member
 
-**Here are some ideas to get you started:**
+| Name                        | Student ID   |
+| --------------------------- | ------------ |
+| Azzah Azkiyah Angeli Syahwa | M010B4KX0777 |
+| Mila Cahyani                | M193B4KX2502 |
+| Muhammad Ajisaka Arsyi Taj  | M001B4KY2699 |
+| Ahmad Yudha Aditya          | C001B4KY0236 |
+| T.Mochamad Rafly            | C001B4KY4284 |
+| Louis Laskar Ginting        | A528B4KY2285 |
+| Rahmat Farhan               | A528B4KY3630 |
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Background
