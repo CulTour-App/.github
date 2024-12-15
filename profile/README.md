@@ -1,6 +1,6 @@
 # CulTour
 
-![Cultour](<profile\CulTour_App_-_Bangkit_Capstone_Project.jpg>)
+![Cultour](<profile/CulTour_App_-_Bangkit_Capstone_Project.jpg>)
 
 ## Team Member
 
