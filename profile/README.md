@@ -5,7 +5,7 @@
 - [CulTour - Your Travel Buddy!](#culTour-your-travel-buddy)
     - [Team Member](#team-member)
     - [Background](#background)
-    - [Results](#documentation)
+    - [Results](#results)
     - [Documentation](#documentation)
 
 ## Team Member
