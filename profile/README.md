@@ -23,13 +23,16 @@ However, the influx of tourists brings challenges, particularly when tourists la
 Given these challenges, the demand for intelligent and flexible travel tools is essential. A smart travel assistant can build a solid understanding of cultural insights, so tourists can navigate social situations more confidently and avoid making cultural mistakes. Having this awareness will ensure a smoother and more respectful experience when engaging with a different culture.
 
 ## Results
-Below is a video containing our project's explanation
+
+Below is a video containing our project's explanation:
 [![Team's Presentation](<./Banner.jpg>)](https://www.youtube.com/watch?v=MOpt7fvKmwg)
 
 We planned on implementing NLP for delivering personalized travel assistance through a chatbot, suggesting preparation tips based on weather forecasts for selected dates. Additionally, it provides cultural insights of the destination that will help users adapt to local customs and enjoy a well-prepared vacation. To then deploy it to google cloud using cloud run, which our mobile development team can use to make the application.
 
 The final product that we have developed implemented all the features that we wanted, which gives users the necessary information about the cultures and weather of their desired destination, so that they would know what to do and what to prepare when journeying into a foreign place.
 
-
 ## Documentation
-Below are the links to our API's documentations
+
+Below are the links to our API's documentations:
+- [Authentication API Documentation](https://documenter.getpostman.com/view/32753798/2sAYBXBW6D)
+- [Weather Model Documentation](https://documenter.getpostman.com/view/32753798/2sAYBbcoMY)
