@@ -1,6 +1,12 @@
-# CulTour
+# CulTour - Your Travel Buddy!
 
 ![Cultour](<./Banner.jpg>)
+
+- [CulTour - Your Travel Buddy!](#culTour-your-travel-buddy)
+    - [Team Member](#team-member)
+    - [Background](#background)
+    - [Results](#documentation)
+    - [Documentation](#documentation)
 
 ## Team Member
 
