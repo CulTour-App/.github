@@ -1,6 +1,6 @@
 # CulTour
 
-![Cultour](<profile/CulTour_App_-_Bangkit_Capstone_Project.jpg>)
+![Cultour](<./Banner.jpg>)
 
 ## Team Member
 
@@ -24,7 +24,7 @@ Given these challenges, the demand for intelligent and flexible travel tools is 
 
 ## Results
 Below is a video containing our project's explanation
-[![Team's Presentation](<./profile/Presentation Thumb.png>)](https://www.youtube.com/watch?v=MOpt7fvKmwg)
+[![Team's Presentation](<./Banner.jpg>)](https://www.youtube.com/watch?v=MOpt7fvKmwg)
 
 We planned on implementing NLP for delivering personalized travel assistance through a chatbot, suggesting preparation tips based on weather forecasts for selected dates. Additionally, it provides cultural insights of the destination that will help users adapt to local customs and enjoy a well-prepared vacation. To then deploy it to google cloud using cloud run, which our mobile development team can use to make the application.
 
